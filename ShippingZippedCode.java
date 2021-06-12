@@ -1,4 +1,4 @@
-package in.co.iman.O6_MergeInterval;
+package in.co.iman.williamSonoma;
 
 import org.junit.Assert;
 import java.util.*;
